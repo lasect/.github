@@ -1,6 +1,6 @@
 # Lasect
 
-Lasect is an experiment by [@heywinit](https://github.com/heywinit), [@byedeep](https://github.com/byedeep) and [@swapnil404](https://github.com/swapnil404). We're three uni friends studying in our sophomore years. We aim to build tools mostly around databases and backends, starting with Postgres.
+Lasect is an experiment by [@heywinit](https://github.com/heywinit), [@byedeep](https://github.com/byedeep) and [@swapnil404](https://github.com/swapnil404). We're three uni friends aiming to build tools around databases and backends, starting with Postgres.
 
 ### Projects
 
