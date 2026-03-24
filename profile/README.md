@@ -1,16 +1,20 @@
-# lasect
+# Lasect
 
-lasect is an experiment by [@heywinit](https://github.com/heywinit) and [@byedeep](https://github.com/byedeep). we're two friends studying in our sophomore years. we aim to build tools mostly around databases and backends, starting with postgres.
+Lasect is an experiment by [@heywinit](https://github.com/heywinit), [@byedeep](https://github.com/byedeep) and [@swapnil404](https://github.com/swapnil404). We're three uni friends studying in our sophomore years. We aim to build tools mostly around databases and backends, starting with Postgres.
 
-### projects
+### Projects
 
-we're working on the following currently:
+We're working on the following currently:
+*   **Lasect**: an orchestration & control layer for Postgres. It wraps existing, battle-tested tools like pgBackRest, pgBouncer, pgAudit and many more into a unified interface. To be open-sourced soon.
+*   **Sova**: a swiss-knife data management solution.
 
-*   **lasect**: an a-z control panel for postgres. it wraps existing, battle-tested tools like pg_backrest and pgaudit into a unified interface.
-*   **sova**: an a-z data management solution.
-
-### public repositories
+### Public Repositories
 
 *   **[pg_turret](https://github.com/lasect/pg_turret)**: real-time postgres log streaming to external destinations.
+*   **[pg_tenant](https://github.com/lasect/pg_tenant)**: a poc for handling multitenancy in postgres with an extension
 *   **[pg_aim](https://github.com/lasect/pg_aim)**: automated index management in pgrx to learn more about internals.
 *   **[benjdickenmarks](https://github.com/lasect/benjdickenmarks)**: general benchmarks for postgres, starting with text search.
+
+### Misc Experiments
+*   **[helixdb_fdw](https://github.com/lasect/helixdb_fdw)**: postgres foreign data wrapper for [helixdb](https://www.helix-db.com/)
+*   **[ambala](https://github.com/lasect/ambala)**: contextual search engine powered by [helixdb](https://www.helix-db.com/)
