@@ -18,3 +18,4 @@ We're working on the following currently:
 ### Misc Experiments
 *   **[syncyphus](https://github.com/lasect/syncyphus)**: obsidian knowledge graph sync powered by [helixdb](https://www.helix-db.com/)
 *   **[ambala](https://github.com/lasect/ambala)**: contextual search engine powered by [helixdb](https://www.helix-db.com/)
+*   **[dymunim](https://github.com/lasect/dymunim)**: postgres-native execution layer powered by cloudflare [dynamic workers](https://developers.cloudflare.com/dynamic-workers/)
