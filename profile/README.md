@@ -10,6 +10,7 @@ We're working on the following currently:
 
 ### Public Repositories
 
+*   **[discodb](https://github.com/lasect/discodb)**: a relational database stored 100% in a discord guild built with go
 *   **[pg_turret](https://github.com/lasect/pg_turret)**: real-time postgres log streaming to external destinations.
 *   **[pg_tenant](https://github.com/lasect/pg_tenant)**: a poc for handling multitenancy in postgres with an extension
 *   **[pg_aim](https://github.com/lasect/pg_aim)**: automated index management in pgrx to learn more about internals.
