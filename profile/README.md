@@ -5,7 +5,7 @@ Lasect is an experiment by [@heywinit](https://github.com/heywinit), [@byedeep](
 ### Projects
 
 We're working on the following currently:
-*   **Lasect**: an orchestration & control layer for Postgres. It wraps existing, battle-tested tools like pgBackRest, pgBouncer, pgAudit and many more into a unified interface. To be open-sourced soon.
+*   **Lasect**: a Postgres intelligence layer for production teams. 
 *   **Sova**: a swiss-knife data management solution.
 
 ### Public Repositories
