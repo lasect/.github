@@ -1,17 +1,16 @@
 # Lasect
 
-Lasect is an experiment by [@heywinit](https://github.com/heywinit), [@byedeep](https://github.com/byedeep) and [@swapnil404](https://github.com/swapnil404). We're three uni friends aiming to build tools around databases and backends, starting with Postgres.
+Lasect is a suite of tools for teams running Postgres in production. We're building two projects that cover the full operational surface: infrastructure control and workload intelligence.
 
-### Projects
+Orca is a control plane for Postgres infrastructure. It handles provisioning, configuration, sharding, extensions, backups, across your environments. It uses battle-tested tools under the hood without re-inventing the wheel.
 
-We're working on the following currently:
-*   **Lasect**: a Postgres intelligence layer for production teams. 
-*   **Sova**: a swiss-knife data management solution.
+Tetra sits on top of your Postgres workloads and gives you visibility into query behavior, performance patterns, anomalies, and resource usage over time.
 
-### Public Repositories
+### We also work on:
 
 *   **[discodb](https://github.com/lasect/discodb)**: a relational database stored 100% in a discord guild built with go
 *   **[pg_turret](https://github.com/lasect/pg_turret)**: real-time postgres log streaming to external destinations.
+*   **[rlsmon](https://github.com/lasect/rlsmon)**: rls debugger & simulator for postgres
 *   **[pg_tenant](https://github.com/lasect/pg_tenant)**: a poc for handling multitenancy in postgres with an extension
 *   **[pg_aim](https://github.com/lasect/pg_aim)**: automated index management in pgrx to learn more about internals.
 *   **[benjdickenmarks](https://github.com/lasect/benjdickenmarks)**: general benchmarks for postgres, starting with text search.
